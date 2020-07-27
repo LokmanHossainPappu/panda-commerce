@@ -19,3 +19,26 @@
     color:#fff;
     border: none;
 }
+.cat1{
+    background: purple;
+}
+.cat2{
+    background: orange;
+}
+.cat3{
+    background:tomato;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.catagories h1{
+    color: white;
+}
+.catagories img{
+    width: 100px;
+}
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray;
+}
