@@ -11,13 +11,14 @@
 .price{
     color: #ff136f;
 }
-.batla{
+.button-now{
     background: linear-gradient(to bottom,#ff5098 0%,#ff136f 100%);
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
     color:#fff;
     border: none;
+    margin-bottom:;
 }
 .cat1{
     background: purple;
@@ -41,4 +42,18 @@
 .card{
     border: none;
     box-shadow: 5px 5px 10px lightgray;
+}
+.card footer{
+    background:white;
+    border-top:none;
+}
+#subcribe{
+    height:300px;
+    
+}
+.size{
+    width:40%;
+}
+footer{
+    text-align: center;
 }
